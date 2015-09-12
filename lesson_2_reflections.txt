@@ -6,3 +6,6 @@ Why do you need to do it?
 
 For drug money.
 
+q: How can you use the staging area to make sure you have one commit per logical change?
+a: review changes
+
